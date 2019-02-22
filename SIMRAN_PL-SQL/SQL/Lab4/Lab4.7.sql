@@ -1,0 +1,1 @@
+Alter table cust_table drop PRIMARY KEY custid_prim;

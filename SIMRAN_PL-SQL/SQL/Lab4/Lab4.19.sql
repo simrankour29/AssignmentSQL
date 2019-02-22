@@ -1,0 +1,1 @@
+alter table Accountmaster add constraint 	Balance_check(ledger balance > 5000);

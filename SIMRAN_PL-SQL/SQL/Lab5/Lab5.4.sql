@@ -1,0 +1,1 @@
+delete from employee where departmentname like '%sales%';

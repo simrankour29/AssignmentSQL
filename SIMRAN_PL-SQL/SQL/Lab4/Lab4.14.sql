@@ -1,0 +1,2 @@
+Drop table Suppliers;
+create table customermaster(customerid(10) primary key(custid_pk),customername varchar2(30),Address1 varchar2(30),Address2 varchar2(30),Gender varchar2(1),Age number(3),phoneno number(10));

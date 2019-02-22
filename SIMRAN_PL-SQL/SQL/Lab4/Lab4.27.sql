@@ -1,0 +1,1 @@
+DROP sequence seq_dept;

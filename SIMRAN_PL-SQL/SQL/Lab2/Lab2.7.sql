@@ -1,0 +1,1 @@
+SELECT INSTR('Mississippi','i',2,3) FROM DUAL;

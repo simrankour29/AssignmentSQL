@@ -1,0 +1,1 @@
+Alter table cust_table DROP e_mail;

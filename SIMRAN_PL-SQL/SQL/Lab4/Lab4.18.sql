@@ -1,0 +1,1 @@
+alter table Accountmaster add constraint ck_ac check(accountype='NRI' or accountype='IND');

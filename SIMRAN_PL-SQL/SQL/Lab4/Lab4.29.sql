@@ -1,0 +1,1 @@
+create SYNONYM synemp for emp;

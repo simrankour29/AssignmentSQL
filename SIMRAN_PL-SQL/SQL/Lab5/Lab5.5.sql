@@ -1,0 +1,1 @@
+update table employee set deptno=(select deptno from employee where deptno=7788) where deptno=7698;

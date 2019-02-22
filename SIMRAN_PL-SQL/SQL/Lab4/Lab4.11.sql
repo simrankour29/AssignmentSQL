@@ -1,0 +1,1 @@
+Alter table add e_mail varchar2(30);
